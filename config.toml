@@ -1,0 +1,4 @@
+baseURL = "https://mikaelsouza.com"
+languageCode = "pt-br"
+title = "Blog do Mikael"
+theme = "notepadium"
