@@ -34,9 +34,9 @@ darkTheme = "xcode-dark"  # apply this theme in dark mode
 
 # custom navigation items
 
-#[[params.nav.custom]]
-#title = "About"
-#url = "/about"
+[[params.nav.custom]]
+title = "GIF"
+url = "https://gifdopato.mikaelsouza.com"
 
 #[[params.nav.custom]]
 #title = "Hugo"
