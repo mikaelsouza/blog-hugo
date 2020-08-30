@@ -9,4 +9,9 @@ Hello World!
 
 World 2
 
-$oi$
+$$\sqrt{1}$$
+
+```python
+def func(teste):
+    print(teste)
+```

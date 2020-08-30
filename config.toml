@@ -2,3 +2,17 @@ baseURL = "https://mikaelsouza.com"
 languageCode = "pt-br"
 title = "Blog do Mikael"
 theme = "notepadium"
+enableRobotsTXT = true
+
+disqusShortname = "mikaslanche"
+
+[params]
+style = "dark"  # default: "auto", based on system. "light": light theme, "dark": dark theme.
+dateFormat = "Monday, January 2, 2006"
+
+[params.comments]
+enable = true
+
+[params.math]
+math = "on"  # true means globally, or on a per page set "math = true"
+use = "katex"  # "mathjax" or "katex"
